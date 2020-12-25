@@ -1,5 +1,5 @@
 # Covid19-korea
-Mit License이며 자바를 사용함
+License is Mit License, Use programming language Java
 
 ## 대한민국 코로나바이러스 정보 출력 시스템
 
