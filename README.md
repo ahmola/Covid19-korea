@@ -1,5 +1,5 @@
 # Covid19-korea
-License is Mit License, Use programming language Java. You nee to Download Jsoup Module(https://jsoup.org/)
+License is Mit License, Use programming language Java. You need Jsoup Module(https://jsoup.org/)
 
 ## 대한민국 코로나바이러스 정보 출력 시스템
 
